@@ -73,4 +73,6 @@ printf(f'O valor {num} é ÍMPAR)
 
 Emojis
 
-Olá, pequeno gafanhoto :vulcan_salute
+Olá, pequeno gafanhoto :vulcan_salute: :hand:
+
+:monkey:
