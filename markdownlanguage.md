@@ -42,3 +42,9 @@ Inserindo uma imagem
 
 Criando um link
 [Acesse meu GitHub](https://github.com/thelucasgabriel)
+
+Criando tabelas
+
+Num | Nome | Nota
+---|---|---
+1 | Lucas | 8,5
