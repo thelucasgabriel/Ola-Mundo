@@ -48,3 +48,7 @@ Criando tabelas
 Num | Nome | Nota
 ---|---|---
 1 | Lucas | 8,5
+2 | José | 10
+3 | Maria | 9,0
+
+Terminou a tabela
