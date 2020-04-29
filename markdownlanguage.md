@@ -35,3 +35,10 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+
+Inserindo uma imagem
+
+Inserting an image...
+![test image](https://user-images.githubusercontent.com/26506392/80550129-7b4d0900-8995-11ea-815d-6bbf35474ec8.png)
+
+[Acesse meu GitHub](https://github.com/thelucasgabriel)
