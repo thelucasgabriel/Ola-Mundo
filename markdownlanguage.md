@@ -76,3 +76,7 @@ Emojis
 Olá, pequeno gafanhoto :vulcan_salute: :hand:
 
 :monkey:
+
+Citações e marcação de pessoas
+
+Como diria @gafanhotos...
