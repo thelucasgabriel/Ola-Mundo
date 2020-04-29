@@ -52,3 +52,19 @@ Num | Nome | Nota
 3 | Maria | 9,0
 
 Terminou a tabela
+
+
+Aprendendo comandos
+
+'document.getElementsById()'
+
+Programa em Python
+
+'''
+
+num = int(input('Digite um valor:'))
+
+if num % 2 == 0;
+printf(f'O valor {num} é PAR)
+else:
+printf(f'O valor {num} é ÍMPAR)
